@@ -5,6 +5,8 @@ You will build upon the application we've developed during the lessons in this c
 
 URL Test: [http://localhost:8082/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg](http://localhost:8082/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/3/3a/Cat03.jpg)
 
+URL EB App: [http://full-stack-app-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg](http://full-stack-app-dev.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg)
+
 ## Getting Started
 
 You can clone this repo to run the project locally, or navigate to the workspace in the Udacity course.
