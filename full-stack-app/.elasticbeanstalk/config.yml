@@ -2,6 +2,10 @@ branch-defaults:
   default:
     environment: full-stack-app-dev
     group_suffix: null
+environment-defaults:
+  full-stack-app-dev:
+    branch: null
+    repository: null
 global:
   application_name: full-stack-app
   branch: null
